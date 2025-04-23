@@ -1,7 +1,4 @@
 
-###  **AstraBot: Autonomous Aerial Swarm Coordination**
-
-```markdown
 # AstraBot: Autonomous Aerial Swarm Coordination
 
 ## Overview
